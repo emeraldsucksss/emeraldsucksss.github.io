@@ -2,6 +2,10 @@
    Made with <3 in Germany */
 
 body {
+  overflow: scroll; /* Show scrollbars */
+}
+
+body {
   background: #ecf0f1;
   color: #000;
   font-family: Arial, 'Arial', 'Arial', Arial, sans-serif;
