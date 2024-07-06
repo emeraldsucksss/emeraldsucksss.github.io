@@ -1,1 +1,2 @@
-# emeraldsucksss.github.io
+# hello.
+welcome to my website, its still a work in progress.
