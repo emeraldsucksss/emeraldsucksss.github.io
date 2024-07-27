@@ -3,7 +3,6 @@
 For use with the Windhawk mod by aubymori.
 
 [get it here](https://github.com/emeraldsucksss/emeraldsucksss.github.io/raw/main/files/AltTab.dll)
-***
 
 ### Pre-compiled Charms Bar Port
 If you're too lazy to compile CBP for yourself, thank me later.
